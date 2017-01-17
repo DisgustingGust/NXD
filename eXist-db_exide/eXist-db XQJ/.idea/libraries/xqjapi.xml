@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="xqjapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/xqjapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xqj2-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
